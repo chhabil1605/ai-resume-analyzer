@@ -13,6 +13,8 @@
   --color-badge-red: #f9e3e2;
   --color-badge-yellow: #fceed8;
 
+
+
   --color-badge-green-text: #254d4a;
   --color-badge-red-text: #752522;
   --color-badge-yellow-text: #73321b;
@@ -85,7 +87,7 @@ form {
   }
 
   .resume-card {
-    @apply flex flex-col gap-8 h-[560px] w-full lg:w-[450px] xl:w-[490px] bg-white rounded-2xl p-4;
+    @apply flex flex-col gap-8 h-[560px] w-full lg:w-[350px] xl:w-[400px] bg-white rounded-2xl p-4;
   }
 
   .resume-card-header {
